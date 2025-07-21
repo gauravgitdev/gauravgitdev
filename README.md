@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/gauravgitdev/gauravgitdev/blob/1ce2187e682e8a33872865c9a7e93c27ac1ba148/gaurav2.png)
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
